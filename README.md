@@ -1,2 +1,2 @@
 # RefractionSeismograph
-Build your own refraction seismograph using Arduino
+Build your own refraction seismograph using Arduino components.
